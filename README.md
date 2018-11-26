@@ -10,9 +10,9 @@ Por lo tanto, a continuación se presentan algunos de los métodos más comunes 
 
 PRIMER PARCIAL
 1. [Método de Bisección](https://github.com/A01229433/Biseccion)
-2. [Convergencia y Divergencia]()
-3. [Newton - Raphson]()
-4. [Falsa Posición]()
+2. [Convergencia y Divergencia](https://github.com/A01229433/ConvergenciayDivergencia)
+3. [Newton - Raphson](https://github.com/A01229433/NewtonRaphson)
+4. [Falsa Posición](https://github.com/A01229433/FalsaPosicion)
 5. [Punto Fijo]()
 6. [Método Gráfico]()
 
