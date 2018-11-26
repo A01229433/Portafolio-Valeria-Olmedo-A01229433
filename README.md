@@ -1,4 +1,4 @@
-# ProyectoMetodosNumericos
+# Portafolio de Métodos Numéricos
 
 Los métodos numéricos son técnicas mediante las cuales es posible formular problemas de tal forma que sean resueltos con operaciones aritméticas. Aunque hay muchos tipos de métodos, todos comparten una característica común, llevan a cabo un buen número de cálculos aritméticos y emiten soluciones aproximadas.
 
